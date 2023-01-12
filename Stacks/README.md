@@ -1,9 +1,7 @@
 STACKS IN C:
 
 
-![images (6)](https://user-images.githubusercontent.com/113252231/212065388-90234ef2-51c4-4d7f-968f-798b15fee068.jpg)
-
-
+![roher (4)](https://user-images.githubusercontent.com/113252231/212075680-5144fe54-f29d-4807-aa72-07f6a5faea38.png)
 
 
 In this project we get to understand the Array Implementation in Stacks.
