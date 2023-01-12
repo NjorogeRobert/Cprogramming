@@ -1,3 +1,7 @@
+![roher (3)](https://user-images.githubusercontent.com/113252231/212075026-37061796-60f2-4302-9ffd-c882ff264991.png)
+
+
+
 This Directory Explains how Switch Case Statements can be used.
 NOTES ON SWITCH CASE
 They are used when we have multiple options and we need to perform a different tasks
