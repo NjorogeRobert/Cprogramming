@@ -5,9 +5,13 @@ STACKS IN C:
 
 
 In this project we get to understand the Array Implementation in Stacks.
-TASKS/PROJECTS
-I. stack_array.c
+
+TASKS/PROJECTS📝
+
+I. stack_array.c📝
+
 FUNCTIONS USED
+
 Push(): function that is responsible of adding items to the stack
 Pop(): function that is responsible of deleting Items from the stack
 
@@ -28,10 +32,14 @@ stack_arr[MAX]: represents the stack
 #define MAX: preprocessor containing the maximum value of array stack_arr[]
 int top: index of the values in the array.
 
-II. sin_push_stack
+
+II. sin_push_stack📝
+
 Shows how Singly_linked lists can be used with stacks.
 
-FUNCTIONS USED
+
+📝FUNCTIONS USED
+
 1. Global referential structure with a global pointer top
 struct node
 {
