@@ -1,4 +1,9 @@
 STRUCTURE
+
+![Structurein c](https://user-images.githubusercontent.com/113252231/212066763-24ecd674-6cc6-4bc0-af78-58695653f021.png)
+
+
+
 Structures in C programming are a group of variables of different data types represented by a single name: :)
 
 we use the keyword struct to create a structure.
