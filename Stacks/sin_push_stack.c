@@ -30,6 +30,24 @@ void push(int data)
 	top = temp;
 	//return top;
 }
+//deletes data in stack
+int pop()
+{
+	int var;
+	struct node *temp;
+	temp = top;
+	if(top == NULL)
+	{
+		printf("Stack is already empty\n");
+		exit(1);
+	}
+	var = temp->data;
+	top = top->link;
+	free(temp);
+	temp = NULL;
+	return var;
+}
+
 void seek()
 {
 	printf("The top most data in stack is %d\n", top->data);
@@ -57,7 +75,8 @@ int main()
 		printf("1) Push\n");
 		printf("2) print all\n");
 		printf("3) print top most data\n");
-		printf("4) Quit\n");
+		printf("4) Pop\n");
+		printf("5) Quit\n");
 		scanf("%d", &choice);
 
 
@@ -78,6 +97,10 @@ int main()
 				seek();
 				break;
 			case 4:
+				num = pop();
+				printf("The data deleted is %d\n", num);
+				break;
+			case 5:
 				printf("Shutting down\n");
 				exit(1);
 				break;
