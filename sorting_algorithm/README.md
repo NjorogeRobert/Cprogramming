@@ -5,6 +5,7 @@ In this directory is a well explained Topic on Sorting in C.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 A) Bubble Sort
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 1.In Bubble sort algorithm we compare the first two elements of an array and swap them if required.
