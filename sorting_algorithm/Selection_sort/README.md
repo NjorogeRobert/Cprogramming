@@ -53,6 +53,7 @@ The resulted array is the sorted array.
 
 selection sortA.c
 
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 In this approach, we will choose a min_index and assign it a value of the first location of the array. However, in the next iterations, its value keeps on increasing by 1
 
