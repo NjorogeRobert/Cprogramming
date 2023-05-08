@@ -16,9 +16,6 @@ To access variadic arguments, we must include the <stdarg.h> header.
 
 We use the following library facilities:
 
-Facility
-
-Use
 
 va_start
 
